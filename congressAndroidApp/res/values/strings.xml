@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WebTechLegisStart</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_about_me">AboutMe</string>
+    <string name="title_activity_legis_details">LegisDetails</string>
+    <string name="title_activity_bill_details">BillDetails</string>
+    <string name="title_activity_comm_details">CommDetails</string>
+    <string name="title_activity_comms_details">CommsDetails</string>
+</resources>
